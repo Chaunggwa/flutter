@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "463751943816",
+    "project_id": "mynotes-fultter",
+    "storage_bucket": "mynotes-fultter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463751943816:android:8f74f32164bad2147f713d",
+        "android_client_info": {
+          "package_name": "com.example.testing1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC9Wvt8A62rGc93vk439AA0qJ_cPkxyA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463751943816:android:31147fee4f30a16f7f713d",
+        "android_client_info": {
+          "package_name": "trss.vercel.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC9Wvt8A62rGc93vk439AA0qJ_cPkxyA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
